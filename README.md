@@ -5,9 +5,9 @@
 
 ## :hammer: O que foi visto
 
-- `Proposta 1`: Deploy de aplicações Java com Spring
-- `Proposta 2`: Ambiente Cloud
-- `Proposta 3`: Criar Dockerfile no diretório raiz da aplicação
+- `Estudo 1`: Deploy de aplicações Java com Spring
+- `Estudo 2`: Ambiente Cloud
+- `Estudo 3`: Criar Dockerfile no diretório raiz da aplicação
 
 # Notas
 - [x] Profiles 
